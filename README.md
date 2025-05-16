@@ -1,10 +1,10 @@
 # Automated Detection of Hateful Content in Memes Using Deep Learning App
 # Created by
 # Harsh Yadav
-# student of Master of Science in Computer Science at University of Lucknow.
-# project under the guidence of Dr. S.P. Kannojia
+# Student of Master of Science in Computer Science at the University of Lucknow.
+# project under the guidance of Dr. S.P. Kannojia
 
-This application uses AI model to detect hateful content in memes. It combines image and text analysis to identify potentially harmful content.
+This application uses an AI model to detect hateful content in memes. It combines image and text analysis to identify potentially harmful content.
 
 ## Prerequisites
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 
 5. Download the Hateful Memes dataset from Facebook AI:
-- Visit: https://www.kaggle.com/datasets/parthplc/facebook-hateful-meme-dataset
+- Visit: https://www.kaggle.com/datasets/harshlu/meme-data-set
 - Follow the instructions to download the dataset
 - Place the dataset in the `data/` directory
 
