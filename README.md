@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 
 5. Download the Hateful Memes dataset from Facebook AI:
-- Visit: https://www.kaggle.com/datasets/harshlu/meme-data-set
+- Visit: meme-data-set:- (https://www.kaggle.com/datasets/parthplc/facebook-hateful-meme-dataset)
 - Follow the instructions to download the dataset
 - Place the dataset in the `data/` directory
 
